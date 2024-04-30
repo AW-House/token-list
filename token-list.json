@@ -1,0 +1,63 @@
+
+{
+   "name":"Redstone Network Token List",
+   "logoURI":"https://cloudflare-ipfs.com/ipfs/QmWhsS3Lf5bFTNSRWXEdsPohdiKMai6k5roBFdYiEBq48S",
+   "keywords":[
+      "redstone",
+      "default"
+   ],
+   "timestamp":"2024-05-01T00:00:00+00:00",
+   "tokens":[
+      {
+         "chainId":690,
+         "address":"0x4200000000000000000000000000000000000006",
+         "symbol":"WETH",
+         "name":"Wrapped Ether",
+         "decimals":18,
+         "logoURI":"https://cloudflare-ipfs.com/ipfs/QmVWVPm71pKPMQDU3wTWCxAMR2YpRWnCkjXCz9zwpuBNC5",
+         "tags":[
+            "wrapped"
+         ]
+      },
+      {
+         "chainId":690,
+         "address":"0xD5d59fC063e7548b6015A36fEb10B875924A19be",
+         "symbol":"USDC.e",
+         "name":"Bridged USDC (Lattice)",
+         "decimals":6,
+         "logoURI":"https://cloudflare-ipfs.com/ipfs/QmXfzKRvjZz3u5JRgC4v5mGVbm9ahrUiB4DgzHBsnWbTMM",
+         "tags":[
+            "usdc",
+            "bridged",
+            "circle"
+         ]
+      },
+      {
+         "chainId":17069,
+         "address":"0x4200000000000000000000000000000000000006",
+         "symbol":"WETH",
+         "name":"Wrapped Ether",
+         "decimals":18,
+         "logoURI":"https://cloudflare-ipfs.com/ipfs/QmVWVPm71pKPMQDU3wTWCxAMR2YpRWnCkjXCz9zwpuBNC5",
+         "tags":[
+            "wrapped"
+         ]
+      },
+      {
+         "chainId":17069,
+         "address":"0xD2cA61F265a2dA2d2CD7607F05C26eBfA18AD5F6",
+         "symbol":"mUSDC",
+         "name":"Mock USDC",
+         "decimals":6,
+         "logoURI":"https://cloudflare-ipfs.com/ipfs/QmXfzKRvjZz3u5JRgC4v5mGVbm9ahrUiB4DgzHBsnWbTMM",
+         "tags":[
+            "usdc"
+         ]
+      }
+   ],
+   "version":{
+      "major":1,
+      "minor":0,
+      "patch":0
+   }
+}

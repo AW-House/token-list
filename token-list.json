@@ -53,6 +53,14 @@
          "tags":[
             "usdc"
          ]
+      },
+      {
+         "chainId":690,
+         "address":"0x32444d4DEb1f8FA35A235FF997D5a22aC74b0e48",
+         "symbol":"ORB",
+         "name":"Orbs",
+         "decimals":18,
+         "logoURI":"https://raw.githubusercontent.com/AW-House/token-list/main/assets/ORB/logo.png"
       }
    ],
    "version":{

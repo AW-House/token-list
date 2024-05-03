@@ -1,5 +1,5 @@
 # Redswap Token List
-Token list for [redswap.io](https://redswap.io) and [info.redswap.io](redswap.io).
+Token list for [redswap.io](https://redswap.io) and [info.redswap.io](https://info.redswap.io/).
 
 # Adding new tokens
 ## The Approval process

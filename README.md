@@ -28,7 +28,7 @@ _*We highly recommend that the contract is verified as this will be taken into c
          "symbol":"WETH",
          "name":"Wrapped Ether",
          "decimals":18,
-         "logoURI":"https://raw.githubusercontent.com/AW-House/token-list/main/assets/WETH/logo.png",
+         "logoURI":"https://raw.githubusercontent.com/AW-House/token-list/main/assets/WETH/logo.png"
       },
 ```
 - Create a pull request

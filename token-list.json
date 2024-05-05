@@ -10,14 +10,6 @@
    "tokens":[
       {
          "chainId":690,
-         "address":"0x9c0153C56b460656DF4533246302d42Bd2b49947",
-         "symbol":"BUGS",
-         "name":"Bugs",
-         "decimals":18,
-         "logoURI":"https://raw.githubusercontent.com/AW-House/token-list/main/assets/BUGS/logo.png"
-      },
-      {
-         "chainId":690,
          "address":"0x4200000000000000000000000000000000000006",
          "symbol":"WETH",
          "name":"Wrapped Ether",
@@ -69,6 +61,14 @@
          "name":"Orbs",
          "decimals":18,
          "logoURI":"https://raw.githubusercontent.com/AW-House/token-list/main/assets/ORB/logo.png"
+      },
+      {
+         "chainId":690,
+         "address":"0x9c0153C56b460656DF4533246302d42Bd2b49947",
+         "symbol":"BUGS",
+         "name":"Bugs",
+         "decimals":18,
+         "logoURI":"https://raw.githubusercontent.com/AW-House/token-list/main/assets/BUGS/logo.png"
       }
    ],
    "version":{

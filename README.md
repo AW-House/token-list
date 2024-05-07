@@ -29,6 +29,19 @@ _*We highly recommend that the contract is verified as this will be taken into c
          "name":"Wrapped Ether",
          "decimals":18,
          "logoURI":"https://raw.githubusercontent.com/AW-House/token-list/main/assets/WETH/logo.png"
-      },
+      }
 ```
+- Increment the version (if new token is added: minor, if existing token data is edited - patch);
+```sh
+   "version":{
+      "major":1,
+      "minor":<<x+1>>,
+      "patch":0
+   }
+```
+- Update a timestamp (UTC in ISO format)
+```sh
+  "timestamp":"2024-05-05T13:16:21Z"
+```
+- Validate that .json file is formatted correctly (with no errors)
 - Create a pull request

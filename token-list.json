@@ -6,7 +6,7 @@
       "redstone",
       "default"
    ],
-   "timestamp":"2024-05-05T13:16:21Z",
+   "timestamp":"2023-07-03T05:46:23Z",
    "tokens":[
       {
          "chainId":690,
@@ -69,11 +69,19 @@
          "name":"Bugs",
          "decimals":18,
          "logoURI":"https://raw.githubusercontent.com/AW-House/token-list/main/assets/BUGS/logo.png"
+      },
+      {
+         "chainId":690,
+         "address":"0x160F5016Bb027695968df938aa04A95B575939f7",
+         "symbol":"LUBE",
+         "name":"LUBRICANT",
+         "decimals":18,
+         "logoURI":"https://raw.githubusercontent.com/AW-House/token-list/main/assets/LUBE/logo.png"
       }
    ],
    "version":{
       "major":1,
-      "minor":1,
+      "minor":2,
       "patch":0
    }
 }

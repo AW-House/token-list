@@ -6,7 +6,7 @@
       "redstone",
       "default"
    ],
-   "timestamp":"2024-07-03T05:46:23Z",
+   "timestamp":"2024-07-17T02:29:23Z",
    "tokens":[
       {
          "chainId":690,
@@ -77,11 +77,83 @@
          "name":"LUBRICANT",
          "decimals":18,
          "logoURI":"https://raw.githubusercontent.com/AW-House/token-list/main/assets/LUBE/logo.png"
+      },
+      {
+         "chainId":690,
+         "address":"0xC750a84ECE60aFE3CBf4154958d18036D3f15786",
+         "symbol":"UREA",
+         "name":"UREA",
+         "decimals":18,
+         "logoURI":"https://raw.githubusercontent.com/AW-House/token-list/main/assets/UREA/logo.png"
+      },
+      {
+         "chainId":690,
+         "address":"0x65638Aa354d2dEC431aa851F52eC0528cc6D84f3",
+         "symbol":"FRTL",
+         "name":"FERTILIZER",
+         "decimals":18,
+         "logoURI":"https://raw.githubusercontent.com/AW-House/token-list/main/assets/FRTL/logo.png"
+      },
+      {
+         "chainId":690,
+         "address":"0x1ca53886132119F99eE4994cA9D0a9BcCD2bB96f",
+         "symbol":"CORN",
+         "name":"CORN",
+         "decimals":18,
+         "logoURI":"https://raw.githubusercontent.com/AW-House/token-list/main/assets/CORN/logo.png"
+      },
+      {
+         "chainId":690,
+         "address":"0x7Ea470137215BDD77370fC3b049bd1d009e409f9",
+         "symbol":"TBC",
+         "name":"TOBACCO",
+         "decimals":18,
+         "logoURI":"https://raw.githubusercontent.com/AW-House/token-list/main/assets/TBC/logo.png"
+      },
+      {
+         "chainId":690,
+         "address":"0xca7f09561D1d80C5b31b390c8182A0554CF09F21",
+         "symbol":"PETRO",
+         "name":"PETROLEUM",
+         "decimals":18,
+         "logoURI":"https://raw.githubusercontent.com/AW-House/token-list/main/assets/PETRO/logo.png"
+      },
+      {
+         "chainId":690,
+         "address":"0xdCc7Bd0964B467554C9b64d3eD610Dff12AF794e",
+         "symbol":"SAND",
+         "name":"SAND",
+         "decimals":18,
+         "logoURI":"https://raw.githubusercontent.com/AW-House/token-list/main/assets/SAND/logo.png"
+      },
+      {
+         "chainId":690,
+         "address":"0x54b31D72a658A5145704E8fC2cAf5f87855cc1Cd",
+         "symbol":"YEA",
+         "name":"YEAST",
+         "decimals":18,
+         "logoURI":"https://raw.githubusercontent.com/AW-House/token-list/main/assets/YEA/logo.png"
+      },
+      {
+         "chainId":690,
+         "address":"0xF66D7aB71764feae0e15E75BAB89Bd0081a7180d",
+         "symbol":"RATS",
+         "name":"RATS",
+         "decimals":18,
+         "logoURI":"https://raw.githubusercontent.com/AW-House/token-list/main/assets/RATS/logo.png"
+      },
+      {
+         "chainId":690,
+         "address":"0xD64f7863d030Ae7090Fe0D8109E48B6f17f53145",
+         "symbol":"ANF",
+         "name":"ANTIFREEZE",
+         "decimals":18,
+         "logoURI":"https://raw.githubusercontent.com/AW-House/token-list/main/assets/ANF/logo.png"
       }
    ],
    "version":{
       "major":1,
-      "minor":2,
+      "minor":3,
       "patch":0
    }
 }
